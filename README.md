@@ -1,7 +1,7 @@
 # My_Dockerfile
 
 Run Container: 
-docker container run -p <The port you want. i.e.:3000>:5000 my_simple_python_app
+docker container run -p <The port you want. i.e.:3000>:5000 -d my_simple_python_app
 
 
 Test the application:
