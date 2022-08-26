@@ -3,9 +3,6 @@ from flask import jsonify, request
 
 @app.route('/')
 def hello():
-#        resp = jsonify('Hello, I am Yazan Daibes!')
-#       resp.status_code = 200
-#        return resp
 	return 'Hello, I am Yazan Daibes!'
 
 
