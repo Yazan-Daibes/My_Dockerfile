@@ -3,7 +3,8 @@
 A simple python flask app in which it prints “Hello, I am Yazan Daibes” when nothing is 
 added to the URL path and “I am good, how about you?” when /how are you is added to
 the URL path.
-
+====================================================================
+The Docker file is also uploaded on DockerHub: To pull it use: docker pull yazand16/my_simple_python_app:latest
 ====================================================================
 
 Run Container: (Note: 5000 is flask port and it must be 5000 to run the app)
